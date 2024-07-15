@@ -1,8 +1,4 @@
 <!-- :ogo -->
-<p align='center'>
-    <img src="public/assets/PortfolioDemoLogo.png" alt="Demo" title="DemoImage" width="150" height="150">
-</p>
-
 <!-- Introduction Text -->
 <div align="center">
     <h1>
