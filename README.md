@@ -1,4 +1,8 @@
 <!-- :ogo -->
+<p align='center'>
+    <img src="public/assets/PortfolioDemoLogo.png" alt="Demo" title="DemoImage" width="150" height="150">
+</p>
+
 <!-- Introduction Text -->
 <div align="center">
     <h1>
@@ -6,9 +10,9 @@
             My Portfolio Website 
         </span>
         <br/> 
-        <a href="https://devongifford.vercel.app/">
+        <a href="https://devarshiramnauth.net">
             <span>
-                https://devongifford.vercel.app/
+               https://devarshiramnauth.net/
             </span>
         </a>
     </h1>
@@ -34,9 +38,7 @@
 ### 🚀 About This Project 
 ---
 
-Inspired by Brittany Chiang's captivating portfolio website, I embarked on a journey to recreate her design using my preferred tech stack.  Initially challenged by the fact that Brittany's stack was built with Gatsby, while I was opting for Next.js - I saw this as an opportunity for growth.
-
-Not only did I successfully replicate the design, but I also added my own innovative ideas and enhancements.
+Inspired by both Brittany Chiang's and Devon Gifford
 
 <br/>
 
@@ -44,14 +46,12 @@ Not only did I successfully replicate the design, but I also added my own innova
 ---
 ### 🙏 Credit & Note on Forking
 ---
+All credit goes to them, ill be modifying same to add my own sauce to it :) 
 
-While I built this website from scratch, it's important to acknowledge Brittany Chiang as the source of inspiration. All credit for the original design and concept goes to her.
-<br>
-You are welcome to fork this repo. However, please ensure proper attribution by linking back to the original source.
-<br>
-- Website - https://brittanychiang.com/ 
-- GitHub - https://github.com/bchiang7/v4
-<h6> You could also give me a star if you like this project 😉⭐ </h6>
+
+- Website - https://brittanychiang.com/ &  https://devongifford.vercel.app/
+
+
 <br>
 <br>
 
